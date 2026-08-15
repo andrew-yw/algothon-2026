@@ -4,7 +4,7 @@
 >
 > **3rd by technical score in the final round**
 
-We built a causal, price-only trading system for the Susquehanna x UNSW FinTech Society Algothon 2026. Its final form was not one exceptional predictor. It was a constrained decision pipeline that combined several weak views of relative price movement, learned when to ignore them, and deliberately discarded most of its own complexity before execution.
+We built a causal, price-only trading system for the Susquehanna x UNSW FinTech Society Algothon 2026. The final form was intended not to be an exceptional predictor. It was a constrained decision pipeline that combined several weak views of relative price movement, learned when to ignore (or reweigh) them, and deliberately discarded most of its own complexity before execution.
 
 **Complexity in extracting information; simplicity in making decisions.**
 
