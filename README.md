@@ -17,7 +17,7 @@ The less comfortable lesson mattered just as much: **a strategy can be perfectly
 </p>
 
 <p align="center">
-  <strong>From left:</strong> Andrew Wang <sub>(team captain)</sub> · Peidong (Isaac) Liu · Yiping Yin · Lingjie (Jackson) Zhong
+  <strong>From left:</strong> <a href="https://github.com/andrew-yw">Andrew Wang</a> <sub>(team captain)</sub> · <a href="https://github.com/EscapedShark">Peidong (Isaac) Liu</a> · <a href="https://github.com/Yiping-Yin">Yiping Yin</a> · <a href="https://github.com/jacksonzhong655-gif">Lingjie (Jackson) Zhong</a>
 </p>
 
 ## Contents
