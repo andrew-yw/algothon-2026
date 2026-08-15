@@ -10,8 +10,19 @@ We built a causal, price-only trading system for the Susquehanna x UNSW FinTech 
 
 The less comfortable lesson mattered just as much: **a strategy can be perfectly causal and still be overfit through researcher selection.** This write-up therefore covers failures, ablations, detectability, and the limits of our conclusion—not only the final code.
 
+## Team abc123
+
+<p align="center">
+  <img src="assets/team_photo_algothon2026.jpg" alt="Team abc123 at Susquehanna for Algothon 2026" width="760">
+</p>
+
+<p align="center">
+  <strong>From left:</strong> Andrew Wang <sub>(team captain)</sub> · Peidong (Isaac) Liu · Yiping Yin · Lingjie (Jackson) Zhong
+</p>
+
 ## Contents
 
+- [Team abc123](#team-abc123)
 - [Why publish this](#why-publish-this)
 - [The challenge](#the-challenge)
 - [Architecture](#architecture)
