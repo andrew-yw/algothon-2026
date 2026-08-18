@@ -509,7 +509,7 @@ The final implementation is [`strategy/abc123.py`](strategy/abc123.py). The most
 
 The runtime dependencies are NumPy and SciPy; they are listed in [`requirements.txt`](requirements.txt).
 
-The post-competition report, [*Forecasting Under a Limited Effective Sample*](research/forecasting_under_a_limited_effective_sample.pdf), was written by [Yiping Yin](https://github.com/Yiping-Yin). We thank her for extending the team's work into a rigorous, evidence-graded research record.
+The post-competition report, [*Forecasting Under a Limited Effective Sample*](research/forecasting_under_a_limited_effective_sample.pdf), was written by [Yiping Yin](https://github.com/Yiping-Yin). We thank him for extending the team's work into a rigorous, evidence-graded research record.
 
 Thanks to Susquehanna and the UNSW FinTech Society for organising Algothon 2026.
 
