@@ -24,6 +24,7 @@ The less comfortable lesson mattered just as much: **a strategy can be perfectly
 
 - [Team abc123](#team-abc123)
 - [Why publish this](#why-publish-this)
+- [Post-competition research report](#post-competition-research-report)
 - [The challenge](#the-challenge)
 - [Architecture](#architecture)
 - [Research philosophy](#research-philosophy)
@@ -49,6 +50,12 @@ Competition write-ups can make research look cleaner than it was: choose a signa
 We found promising relationships that failed when given their own capital. We found causal improvements that did not survive frozen tests. We improved Sharpe while reducing the actual score. Eventually, the most valuable redesign was not adding information but changing how existing information was allowed to affect a trade.
 
 That progression—hypothesis, test, failure, redesign, validation—is the real subject of this repository.
+
+## Post-competition research report
+
+Yiping Yin's 69-page report, [*Forecasting Under a Limited Effective Sample*](research/forecasting_under_a_limited_effective_sample.pdf), extends the team record beyond this implementation write-up. It reconstructs the rules and evaluator, formalises the staged-data validation protocol, grades evidence by source, and revisits model selection, falsification, and the verified final-round technical result.
+
+The report provides a fuller account of the research depth and evidence than the time-limited final presentation could accommodate. It is deliberately careful about what the public replay can—and cannot—establish.
 
 ## The challenge
 
@@ -501,6 +508,8 @@ The final implementation is [`strategy/abc123.py`](strategy/abc123.py). The most
 - ALGO cascade: `_breadth_direction`, `_algo_tilt_position`, `_idle_algo_position`, and `_Strategy.step`.
 
 The runtime dependencies are NumPy and SciPy; they are listed in [`requirements.txt`](requirements.txt).
+
+The post-competition report, [*Forecasting Under a Limited Effective Sample*](research/forecasting_under_a_limited_effective_sample.pdf), was written by [Yiping Yin](https://github.com/Yiping-Yin). We thank him for extending the team's work into a rigorous, evidence-graded research record.
 
 Thanks to Susquehanna and the UNSW FinTech Society for organising Algothon 2026.
 
